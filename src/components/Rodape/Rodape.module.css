@@ -1,9 +1,11 @@
 
 .rodape {
+    width: 100%;
     background-color: var(--preto);
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 1rem;
 }
 
 .rodape p {

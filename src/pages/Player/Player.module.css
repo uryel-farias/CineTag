@@ -1,0 +1,12 @@
+.container {
+display: flex;
+margin: 0 auto;
+width: 70%;
+}
+
+iframe {
+    padding-bottom: 3rem;
+    min-height: 40vh;
+    max-width: 100%;
+
+}
